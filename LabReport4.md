@@ -6,7 +6,8 @@
 - **Summary:** Cloned the lab7 repository from GitHub.
 - **Summary:** 
 ### Step 6: Fix the program
-- **Keys pressed:** 
+- **Keys pressed:**  cd lab7<enter> vim ListExamples.java<enter> /index1<enter> cw index2<esc> :wq<enter>
+- **Summary:** 
 - Changed directory to lab7.
 - Opened ListExamples.java in vim.
 - Searched for "index1".
