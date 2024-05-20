@@ -52,3 +52,35 @@ Cloned the lab7 repository from GitHub.
 
 ### Summary:
 Ran the shell script to execute the tests.
+
+## Step 8: Commit and push the change
+
+### Screenshot:
+![Commit and Push](commit_push_screenshot.png)
+
+### Keys Pressed:
+- `git add ListExamples.java<enter>`
+- `git commit -m "Fixed index1 to index2 in ListExamples.java"<enter>`
+- `git push<enter>`
+
+### Summary:
+Staged the modified file for commit, committed the change with a message, and pushed the changes to the GitHub repository.
+
+## Step 9: Adding the Lab Report to Your GitHub Pages Site
+
+### Screenshot:
+![GitHub Pages](github_pages_screenshot.png)
+
+### Keys Pressed:
+- `cd path_to_your_github_pages_repository<enter>`
+- `cp path_to_lab_report/lab_report_4.md .<enter>`
+- `git add lab_report_4.md<enter>`
+- `git commit -m "Added Lab Report 4"<enter>`
+- `git push<enter>`
+
+### Summary:
+- Navigated to the GitHub Pages repository.
+- Copied the lab report markdown file to the repository.
+- Staged the lab report file for commit.
+- Committed the change with a message.
+- Pushed the changes to the GitHub Pages repository.
